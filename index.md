@@ -1,6 +1,6 @@
 ## Professional Life
 
-By day I'm professional grey-beard... a full-stack developer that hates
+By day I'm a professional grey-beard... a full-stack developer that hates
 the term full-stack developers. I've been making dreams come true on
 the interwebs for over 15 years but I'm no Al Gore.
 
