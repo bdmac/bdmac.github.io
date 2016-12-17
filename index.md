@@ -8,7 +8,7 @@ I love small companies &mdash; what many refer to as startups although I'm
 beginning to grow tired of that term. I've started a few of those and had one
 (semi) successful exit.
 
-While I still do a **lot** of coding still and love the technical side of
+While I still do a **lot** of coding and love the technical side of
 things, my career has taken a decisive turn towards engineering leadership.
 
 ### Most Recently
