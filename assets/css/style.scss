@@ -3,7 +3,51 @@
 
 @import "jekyll-theme-minimal";
 
-$green: #00CC00;
-h1 {
-  color: $green;
+$dark-primary: #F57C00;
+$primary: #FF9800;
+$light-primary: #FFE0B2;
+$accent: #FFC107;
+$primary-text: #212121;
+$secondary-text: #757575;
+
+body {
+  color: $primary-text;
+}
+a {
+  color: $accent;
+  &:hover {
+    color: rgba($accent, .7);
+  }
+}
+blockquote {
+  border-left-color: $primary;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: $primary-text;
+}
+h2 {
+  font-size: 1.6em;
+}
+.primary {
+  color: $primary;
+}
+header {
+  h1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: $primary;
+    img {
+      border-radius: 50%;
+      margin-right: 1em;
+    }
+  }
+  .view {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    i.fa {
+      font-size: 48px;
+    }
+  }
 }

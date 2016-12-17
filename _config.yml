@@ -16,17 +16,29 @@
 title: Brian McManus
 email: me@brianmcmanus.org
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: bdmac97
-github_username:  bdmac
+  I'm a web developer currently living in San Francisco, CA. Ok, well not really
+  San Francisco, more like Daly City cause who can afford that shit? I mostly
+  use Ruby and Javascript with sprinkles of Elixir thrown in for good measure.
+  I'm also a wannabe drummer. :notes:
+author:
+  gravatar_md5: 85e7f9ef6dbf544f2227aab1e5a85f04
+  email: me@brianmcmanus.org
+  links:
+    - icon: github
+      url: https://github.com/bdmac
+    - icon: twitter
+      url: https://twitter.com/bdmac97
+    - icon: linkedin
+      url: https://www.linkedin.com/in/bdmac
+  twitter_username: bdmac97
+  linkedin_username: bdmac
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock
