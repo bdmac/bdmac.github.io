@@ -29,9 +29,6 @@
             </a>
           {% endfor %}
         </p>
-        <p>
-          Or email me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
-        </p>
       </header>
       <section>
 
@@ -39,10 +36,9 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages</small></p>
+        <p>
+          Email me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        </p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
