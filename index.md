@@ -66,7 +66,7 @@ them to great use at Checkmate.
 
 ## Personal Life
 
-By night I'm masked superhero known only as...
+By night I'm a masked superhero known only as...
 
 > DADDY!
 
