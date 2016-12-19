@@ -3,10 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
-$dark-primary: #F57C00;
-$primary: #FF9800;
-$light-primary: #FFE0B2;
-$accent: #FFC107;
+$dark-primary: #023436;
+$primary: #037971;
+$light-primary: #03B5AA;
+$accent: #00BFB3;
 $primary-text: #212121;
 $secondary-text: #757575;
 
@@ -23,7 +23,7 @@ blockquote {
   border-left-color: $primary;
 }
 h1, h2, h3, h4, h5, h6 {
-  color: $primary-text;
+  color: $dark-primary;
 }
 h2 {
   font-size: 1.6em;
