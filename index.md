@@ -89,7 +89,7 @@ By night I'm a masked superhero known only as&hellip;
 >
 > &mdash; <cite>William</cite>
 
-I'm a husband to my wonderful wife Jossie (yes, it's Josie with two Ss, get
+I'm a husband to my wonderful wife Jossie (yep, with two Ss get
 over it). Together we have an amazing little dude named William. He is named
 after [William Riker](https://en.wikipedia.org/wiki/William_Riker) no matter
 what anyone says.
