@@ -26,7 +26,7 @@ I was the technical co-founder of the company and eventually went on to become
 its CTO heading up a small team of 7 engineers in a company that at its peak hit
 30+ employees.
 
-Over the course of those three years I&hellip;
+Over the course of three years I&hellip;
 
 * Dreamt up strategic product ideas in the shower.
 * Architected an application that touched millions of hotel guests.
