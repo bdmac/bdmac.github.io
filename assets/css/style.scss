@@ -22,6 +22,12 @@ a {
 }
 blockquote {
   border-left-color: $light-primary;
+  p {
+    margin-bottom: 10px;
+  }
+  cite {
+    font-size: 0.9em;
+  }
 }
 h1, h2, h3, h4, h5, h6 {
   color: $dark-primary;

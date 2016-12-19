@@ -85,7 +85,9 @@ them to great use at Checkmate.
 
 By night I'm a masked superhero known only as&hellip;
 
-> DADDY!
+> DADA!
+>
+> &mdash; <cite>William</cite>
 
 I'm a husband to my wonderful wife Jossie (yes, it's Josie with two Ss, get
 over it). Together we have an amazing little dude named William. He is named
