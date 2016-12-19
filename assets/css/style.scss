@@ -12,6 +12,7 @@ $secondary-text: #757575;
 
 body {
   color: $primary-text;
+  font-family: 'Noto Serif', serif;
 }
 a {
   color: $accent;
@@ -24,6 +25,7 @@ blockquote {
 }
 h1, h2, h3, h4, h5, h6 {
   color: $dark-primary;
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h2 {
   font-size: 1.6em;
