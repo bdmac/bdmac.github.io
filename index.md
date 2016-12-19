@@ -39,6 +39,8 @@ Over the course of three years I&hellip;
 * Wore an ironic unicorn mask for our Halloween party. Sadly, we were _not_ a unicorn.
 * Participated in product updates for board meetings.
 
+![Last Day of Checkmate]({{ site.url }}/assets/images/checkmate_team_end.jpg)
+
 We were acquired by [TrustYou](http://www.trustyou.com/) in mid-2016. Nope, I
 didn't win the startup lottery on this one but it was a fine outcome and one
 hell of a ride.
