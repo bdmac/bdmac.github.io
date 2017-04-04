@@ -23,8 +23,8 @@ I moved out to California back in 2013 to start
 the ways hotels communicate with their guests.
 
 I was the technical co-founder of the company and eventually went on to become
-its CTO heading up a small team of 7 engineers in a company that at its peak hit
-30+ employees.
+its CTO heading up a small team of up to 10 engineers in a company that at its peak hit
+40+ employees.
 
 Over the course of three years I&hellip;
 
